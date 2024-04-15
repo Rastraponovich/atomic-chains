@@ -1,0 +1,1 @@
+export { swapiPlanetsChain } from "./model"

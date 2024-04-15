@@ -1,0 +1,1 @@
+export { swapiFilmsChain } from "./model"

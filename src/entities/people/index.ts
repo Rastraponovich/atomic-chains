@@ -1,0 +1,1 @@
+export { swapiPeopleChain } from "./model"
